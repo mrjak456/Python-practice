@@ -1,0 +1,6 @@
+x = str("string")
+y = str(12)
+z = str(1.6)
+print(type(x))
+print(type(y))
+print(type(z))
